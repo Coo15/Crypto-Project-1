@@ -1,2 +1,2 @@
 # Crypto-Project-1
-First project in Applied Crypto course
+Password Manager project in Applied Crypto course
