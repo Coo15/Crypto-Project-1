@@ -12,3 +12,6 @@ pip install -r requirements.txt
 ```bash
 pytest -v test_password_manager.py
 ```
+
+### Result
+![image](https://github.com/user-attachments/assets/70d8d05b-c14a-42ae-9589-e03703c64cd2)
